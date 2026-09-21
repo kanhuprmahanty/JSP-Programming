@@ -157,30 +157,6 @@ Designed for Java developers, MCA students, and beginners preparing for Java Ful
 * Role-Based Access Control
 * Secure JSP Development
 
-## 📂 Repository Structure
-
-```text
-JSP-Programming/
-│
-├── 01-JSP-Fundamentals/
-├── 02-Scripting-Elements/
-├── 03-JSP-Directives/
-├── 04-Implicit-Objects/
-├── 05-Action-Tags/
-├── 06-Form-Handling/
-├── 07-Expression-Language/
-├── 08-JSTL/
-├── 09-Session-Management/
-├── 10-JavaBeans/
-├── 11-Exception-Handling/
-├── 12-JSP-JDBC/
-├── 13-JSP-Servlet-Integration/
-├── 14-MVC-Architecture/
-├── 15-Advanced-JSP/
-│
-└── README.md
-```
-
 ## ⚙️ Prerequisites
 
 * Java Development Kit (JDK)
